@@ -17,6 +17,28 @@ To get started with WebSync, ensure you have the following dependencies and tool
   ```
 - **Convex Backend as a Service (BaaS)**: WebSync leverages Convex BaaS for backend services and real-time database functionality. Sign up for a Convex account and obtain your API key.
 
+## Integration with Convex BaaS
+
+WebSync seamlessly integrates with Convex Backend as a Service (BaaS) to provide robust backend functionalities and real-time database management. Here's how Convex enhances the platform:
+
+### Real-Time Collaboration
+- **Instant Updates:** Convex’s real-time database ensures that changes made by users are immediately visible to all collaborators. This feature is key to enabling effective teamwork and coordination on web design projects.
+
+### Backend Services
+- **Authentication:** Convex handles user authentication, ensuring secure and reliable access to the platform.
+- **Data Storage:** All user data, including website elements and project configurations, are securely stored and managed by Convex.
+- **Scheduled Functions:** Convex allows for the scheduling of tasks, such as website publishing, to occur at specific times, enhancing project planning and execution.
+- **Real-Time Updates:** Convex enables the platform to push real-time updates, ensuring that all users have access to the latest changes without needing to refresh their browser.
+
+### API Integration
+- **useQuery and useMutation:** These Convex APIs are utilized within WebSync to manage data queries and mutations seamlessly, making real-time collaboration a smooth experience.
+
+### Performance and Reliability
+- **Scalability:** Convex’s scalable backend services ensure that WebSync can handle multiple users and complex projects without performance degradation.
+- **Security:** Convex's built-in security features protect user data and ensure that only authorized users have access to sensitive information.
+
+Convex BaaS plays a pivotal role in making WebSync a powerful, collaborative, and user-friendly platform for web design.
+
 ### Setup Instructions
 
 1. **Clone the WebSync repository from GitHub:**
